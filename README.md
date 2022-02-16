@@ -1,12 +1,23 @@
 # Sign in and Sign out Pages
-## About
+## Table of contents
+* [General Information](#general-information)
+* [Technologies Used](#technologies)
+* [Setup](#setup)
+
+## General Information
 Parkit Sign in, Sign out, Forgot Password and conformation emails using AWS Amplify.
 
-## instructions
-1. Install *Node.js version 14.8.1*
-3. Install npm using **npm install**
-4. Install the Amplify CLI globally using **npm install -g @aws-amplify/cli**
-5. After install dependencies run **npm start** and **npm run android**
+## Technologies Used
+Project is created with:
+* Node.js version: 14.8.1
+* git version: 2.32.0
+* npm version: 6.14.15
 
-## Dependencies
-1. **Node.js version 14.8.1** is required
+## Setup
+To run this project, locally using npm install:
+```
+npm install
+npm install -g @aws-amplify/cli
+npm start
+npm run android
+```
