@@ -9,7 +9,7 @@ import {
   TextInput,
   Alert
 } from 'react-native';
-import Logo from '../../../assets/images/Logo_1.png';
+import Logo from '../../../assets/images/Parkit_Logo.png';
 import CustomInput from '../../components/CustomInput';
 import CustomButton from '../../components/CustomButton';
 import {useNavigation} from '@react-navigation/native';
