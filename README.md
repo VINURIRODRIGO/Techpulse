@@ -1,6 +1,6 @@
 # Sign in and Sign out Pages
 ## About
-Parkit Sign in, Sign out, Forgot Password, conformation emails using AWS Amplify.
+Parkit Sign in, Sign out, Forgot Password and conformation emails using AWS Amplify.
 
 ## instructions
 1. Install *Node.js version 14.8.1*
