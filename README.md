@@ -15,8 +15,13 @@ Project is created with:
 
 ## Setup
 To run this project, locally using npm install:
+
+Install npm package.
 ```
 npm install
-npm start
+```
+To run the 
+```
+npm start Sign in and Sign out Pages
 npm run android
 ```
