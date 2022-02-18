@@ -1,5 +1,5 @@
 # Sign in and Sign out Pages
-## Table of contents
+## Table of content
 * [General Information](#general-information)
 * [Technologies Used](#technologies)
 * [Setup](#setup)
