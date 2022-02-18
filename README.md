@@ -17,7 +17,6 @@ Project is created with:
 To run this project, locally using npm install:
 ```
 npm install
-npm install -g @aws-amplify/cli
 npm start
 npm run android
 ```
