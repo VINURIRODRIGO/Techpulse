@@ -14,8 +14,6 @@ Project is created with:
 * npm version: 6.14.15
 
 ## Setup
-To run this project, locally using npm install:
-
 Install npm package.
 ```
 npm install
