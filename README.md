@@ -20,8 +20,8 @@ Install npm package.
 ```
 npm install
 ```
-To run the 
+To run the sign in and sign out pages.
 ```
-npm start Sign in and Sign out Pages
+npm start 
 npm run android
 ```
