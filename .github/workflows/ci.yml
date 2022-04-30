@@ -53,7 +53,7 @@ jobs:
           cd android && ./gradlew assembleRelease --no-daemon
       - name: Distribute app via Firebase App Distribution
         env:
-          firebaseToken: ${ secrets.FIREBASE_SECRET }
+          firebaseToken: 1//0gKi_2D9ufR7wCgYIARAAGBASNwF-L9IrJdU2FNXpO1ool_hKBm8CBnqCkVr1rMt3LNcyJ0ezWdS1CxRF93lS7tDM7Yv4Yt2Y1nw
           firebaseGroups: TechPulse
           firebaseAppId: 1:884301961169:android:8dd788398514769d6632f0
           notes: final prototype
