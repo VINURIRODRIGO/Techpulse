@@ -1,6 +1,0 @@
-names:
-- space-empty
-- space-occupied
-nc: 2
-train: parkit_yolov5-2/train/images
-val: parkit_yolov5-2/valid/images
