@@ -21,5 +21,5 @@ Project is created with:
 
 Model Training Google colab link : https://colab.research.google.com/drive/16lVPh4GRAt0biieSDzdIfRh2FYkWDS86?usp=sharing
 
-reports: https://wandb.ai/techpulse/Yolo-Parkit-Training/reports/YOLOV5--VmlldzoxNjI0MjM5 
-         https://wandb.ai/techpulse/YOLOFinal/reports/YOLOv5-26-and-20-epochs---VmlldzoxNjg3OTE5
+reports: https://wandb.ai/techpulse/Yolo-Parkit-Training/reports/YOLOV5-05-20-26-29-and-30--VmlldzoxNjI0MjM5?accessToken=uqq82ntkzbg8jah5t06p0aeif874eygac6os0ftq4pdvscen027v9kxi6mo2w1w9 
+         https://wandb.ai/techpulse/YOLOFinal/reports/YOLOv5-26-and-20-epochs---VmlldzoxNjg3OTE5?accessToken=mua9v6vzfsb2ps3nl4tp7k567xezqk0lrx7q6ei9xibd0crnmv0x2gyulwhu4o7m
