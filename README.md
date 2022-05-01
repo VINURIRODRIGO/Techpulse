@@ -17,3 +17,8 @@ Project is created with:
 * npm version: 6.14.15
 * Python
 * Java
+
+
+Model Training Google colab link : https://colab.research.google.com/drive/16lVPh4GRAt0biieSDzdIfRh2FYkWDS86?usp=sharing
+
+reports: https://wandb.ai/techpulse/Yolo-Parkit-Training/reports/YOLOV5--VmlldzoxNjI0MjM5
