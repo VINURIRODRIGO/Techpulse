@@ -4,7 +4,7 @@ const routes = require("./routes");
 const logger = require('./logger');
 
 async function main() {
-  await mongoose.connect('mongodb+srv://aasifshakoor:d9b9PCcJczwZpMuf@cluster0.scprd.mongodb.net/test');
+  await mongoose.connect('mongodb+srv://aasifshakoor:d9b9PCcJczwZpMuf@cluster0.scprd.mongodb.net/test'); // Connecting Cluster
  
 }
 

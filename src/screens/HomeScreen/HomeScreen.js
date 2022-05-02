@@ -46,7 +46,7 @@ const HomeScreen = ({navigation}) => {
     fetchParkingList();
   }, []);
 
-  const categoryList = ['Popular', 'Recommended'];
+  const categoryList = ['Popular', ''];
 
   const ListCategories = () => {
     const [selectedCategoryIndex, setSelectedCategoryIndex] = React.useState(0);

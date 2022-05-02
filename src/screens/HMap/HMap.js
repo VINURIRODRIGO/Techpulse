@@ -1,4 +1,5 @@
 import React from 'react';
+import openMap from 'react-native-open-maps';
 import{
     View,
     StyleSheet,
@@ -22,7 +23,7 @@ const HMap = () => {
          <Image 
                           style={styles.startImgStyle}
 
-            source={{uri:'https://github.com/VINURIRODRIGO/Techpulse/blob/main/runs/detect/exp/img9.jpg?raw=true'}}
+            source={{uri:'https://github.com/VINURIRODRIGO/Techpulse/blob/main/data/images/img18.png?raw=true'}}
           />
 
         </View>
