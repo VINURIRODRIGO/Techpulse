@@ -23,7 +23,7 @@ const HomeScreen = ({navigation}) => {
   const fetchParkingList = async () => {
     try {
       const res = await axios
-        .get("http://192.168.1.11:3001/api/parkings")
+        .get("http://192.168.8.108:3001/api/parkings")
         .then((respo) => {
           return respo;
         })
