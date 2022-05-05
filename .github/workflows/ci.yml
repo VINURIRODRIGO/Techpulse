@@ -38,6 +38,7 @@ jobs:
           path: ~/.gradle/wrapper
           key: ${{ runner.os }}-gradle-wrapper-${{ hashFiles('gradle/wrapper/gradle-wrapper.properties') }}
 
+      # To run in Linux environments
       - name: Cache Gradle Dependencies
         uses: actions/cache@v3
         with:
