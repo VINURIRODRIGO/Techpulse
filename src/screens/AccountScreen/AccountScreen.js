@@ -1,5 +1,4 @@
 import * as React from 'react';
-
 import {
   SafeAreaView, 
   StyleSheet, 
@@ -16,7 +15,7 @@ import {
 import {useNavigation} from '@react-navigation/native';
 import COLORS from '../../consts/colors';
 
-const colors = {primary: '#1f145c', white: '#fff'};
+const colors = {primary: '#1f145c', white: '#fff'}; 
     
 const AccountScreen = () => {
 

@@ -23,7 +23,7 @@ const HMap = () => {
          <Image 
                           style={styles.startImgStyle}
 
-            source={{uri:'https://github.com/VINURIRODRIGO/Techpulse/blob/main/data/images/img18.png?raw=true'}}
+            source={{uri:'https://github.com/VINURIRODRIGO/Techpulse/blob/oldMain/data/images/img18.png?raw=true'}}
           />
 
         </View>
