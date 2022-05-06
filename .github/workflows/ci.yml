@@ -38,6 +38,7 @@ jobs:
           path: ~/.gradle/wrapper
           key: ${{ runner.os }}-gradle-wrapper-${{ hashFiles('gradle/wrapper/gradle-wrapper.properties') }}
 
+   
       - name: Cache Gradle Dependencies
         uses: actions/cache@v3
         with:
@@ -45,6 +46,8 @@ jobs:
           key: ${{ runner.os }}-gradle-caches-${{ hashFiles('gradle/wrapper/gradle-wrapper.properties') }}
           restore-keys: |
             ${{ runner.os }}-gradle-caches-
+            
+        # To run in Linux environments     
       - name: Make Gradlew Executable
         run: cd android && chmod +x ./gradlew
 
