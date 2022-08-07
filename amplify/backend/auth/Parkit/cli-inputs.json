@@ -3,8 +3,8 @@
   "cognitoConfig": {
     "identityPoolName": "testAuthIdentityPool",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "techpu69fa7752",
-    "userPoolName": "Techpulse",
+    "resourceNameTruncated": "parkit27f064a5",
+    "userPoolName": "Parkit",
     "autoVerifiedAttributes": [
       "email"
     ],
@@ -14,8 +14,8 @@
     ],
     "smsAuthenticationMessage": "Your authentication code is {####}",
     "smsVerificationMessage": "Your verification code is {####}",
-    "emailVerificationSubject": "Parkit Verification Code",
-    "emailVerificationMessage": "Your Parkit Verification Code: {####}",
+    "emailVerificationSubject": "Verification code: {####}",
+    "emailVerificationMessage": "Verification code: {####}",
     "defaultPasswordPolicy": false,
     "passwordPolicyMinLength": 8,
     "passwordPolicyCharacters": [
@@ -33,10 +33,10 @@
     "userpoolClientRefreshTokenValidity": 30,
     "userpoolClientWriteAttributes": [],
     "userpoolClientReadAttributes": [],
-    "userpoolClientLambdaRole": "Techpu69fa7752_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "Parkit27f064a5_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "69fa7752",
-    "resourceName": "Techpulse",
+    "sharedId": "27f064a5",
+    "resourceName": "Parkit",
     "authSelections": "identityPoolAndUserPool",
     "serviceName": "Cognito",
     "useDefault": "manual",

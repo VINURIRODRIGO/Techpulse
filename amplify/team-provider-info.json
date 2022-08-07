@@ -1,19 +1,19 @@
 {
   "staging": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-amplify29f3c4d1b1434-staging-221102-authRole",
-      "UnauthRoleArn": "arn:aws:iam::365643153227:role/amplify-amplify29f3c4d1b1434-staging-221102-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::365643153227:role/amplify-amplify29f3c4d1b1434-staging-221102-authRole",
+      "AuthRoleName": "amplify-parkit-staging-41800-authRole",
+      "UnauthRoleArn": "arn:aws:iam::564997534474:role/amplify-parkit-staging-41800-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::564997534474:role/amplify-parkit-staging-41800-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-amplify29f3c4d1b1434-staging-221102-deployment",
-      "UnauthRoleName": "amplify-amplify29f3c4d1b1434-staging-221102-unauthRole",
-      "StackName": "amplify-amplify29f3c4d1b1434-staging-221102",
-      "StackId": "arn:aws:cloudformation:us-east-1:365643153227:stack/amplify-amplify29f3c4d1b1434-staging-221102/4242fcf0-c809-11ec-b807-12cb76f4a10b",
-      "AmplifyAppId": "d2ef1a6crdbixg"
+      "DeploymentBucketName": "amplify-parkit-staging-41800-deployment",
+      "UnauthRoleName": "amplify-parkit-staging-41800-unauthRole",
+      "StackName": "amplify-parkit-staging-41800",
+      "StackId": "arn:aws:cloudformation:us-east-1:564997534474:stack/amplify-parkit-staging-41800/ecccf2b0-1607-11ed-a44e-120638875349",
+      "AmplifyAppId": "d3mnoz3etq0g9r"
     },
     "categories": {
       "auth": {
-        "Techpulse": {}
+        "Parkit": {}
       }
     }
   }
