@@ -1,6 +1,6 @@
 {
   "auth": {
-    "Techpulse": {
+    "Parkit": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
